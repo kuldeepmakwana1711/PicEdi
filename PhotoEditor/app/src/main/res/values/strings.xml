@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PicEdi</string>
+    <string name="label_brush">Brush</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Sticker</string>
+    <string name="label_eraser">Eraser</string>
+    <string name="label_text">Text</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_adjust">Adjust</string>
+    <string name="todo">TODO</string>
+    <string name="text">Text</string>
+    <string name="eraser">Eraser</string>
+    <string name="sticker">Sticker</string>
+    <string name="emoji">Emoji</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+    <string name="opacity">Opacity</string>
+    <string name="brush">Brush</string>
+    <string name="rotation">Rotation</string>
+</resources>
